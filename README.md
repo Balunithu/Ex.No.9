@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/dc0b583b-8d1b-4b14-9c76-241804a6f261
 
 ---
 
-### 3. Prompts Used  
+### 2. Prompts Used  
 
 - **Basic Prompt:**
   ```text
@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/dc0b583b-8d1b-4b14-9c76-241804a6f261
   ```
 
 
-### 4. Comparison Report  
+### 3. Comparison Report  
 
 | Aspect                  | Original Video | Generated Video | Notes / Improvements |
 |--------------------------|----------------|-----------------|-----------------------|
