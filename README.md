@@ -69,17 +69,6 @@ https://github.com/user-attachments/assets/dc0b583b-8d1b-4b14-9c76-241804a6f261
 
 ---
 
-### 2. Generated Video  
-Video generated using **Stable Diffusion (text-to-video extension)** with refined prompts.  
-
-
-
-
-https://github.com/user-attachments/assets/5c317d91-f946-418b-93ea-2d54cad31b1
-
-
----
-
 ### 3. Prompts Used  
 
 - **Basic Prompt:**
